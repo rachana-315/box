@@ -1,0 +1,38 @@
+.bigbox{
+  border: 5px solid purple;
+  border-radius: 2em;
+  margin:50px 50px;
+  height:300px;
+  width:300px;
+  padding:20px 20px 20px 20px;
+  background-image: url(https://as2.ftcdn.net/v2/jpg/01/04/31/09/1000_F_104310919_Gr6IZNHHFVHYKcLSF4Dt6jje8fH4jdKq.jpg);
+
+}
+.smallbox{
+  border: 2px solid purple;
+  border-radius: 1em;
+  margin:3px 3px;
+  text-align:center;
+  display:inline-block;
+  width:25%;
+  height: 25%;
+  padding:5px 5px;
+
+}
+
+/*  
+#myid1{
+  float:left;
+  height:50px;
+  width:50px;
+}
+#myid2{
+  float:left;
+  height:50px;
+  width:50px;
+}
+#myid3{
+  float:left;
+  height:50px;
+  width:50px;
+} */
